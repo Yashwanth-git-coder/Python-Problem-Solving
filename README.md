@@ -1,5 +1,5 @@
 # Python-Problem-Solving
-The is the practice, topic wise python problem solving repo. 
+The is the topic wise python problem solving repo. 
 
 # ✅ Python Basics
 # ✅ Control flow - conditional statement and Loops
