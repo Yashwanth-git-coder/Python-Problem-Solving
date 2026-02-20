@@ -4,7 +4,7 @@ The is the topic wise python problem solving repo.
 # ✅ Python Basics
 # ✅ Control flow - conditional statement and Loops
 # ✅ In-built Data Structures - List, Tuple, Sets, and Dictionaries
-# Fuctions
+# ✅ Fuctions
 - Importing Creating modules and Packages
 - File Handling
 - Exception Handling
