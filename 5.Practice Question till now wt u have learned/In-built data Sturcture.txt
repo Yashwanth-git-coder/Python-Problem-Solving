@@ -1,0 +1,32 @@
+Coding Exercise 6: Sum of List Elements
+
+Coding Exercise 7: Largest Element in a List
+
+Coding Exercise 8: Remove Duplicate in a List
+
+Coding Exercise 9: Check if all elements in a List are Unique
+
+Coding Exercise 10: Reverse a List
+
+Coding Exercise 11: Number of Odd and Even Elements in a list
+
+Coding Exercise 12: Check if List is Subset of Another List
+
+Coding Exercise 13: Maximum Difference between 2 consecutive elements in a List
+
+Coding Exercise 14: Merge two sorted List
+
+Coding Exercise 15: Rotate a List
+
+Coding Exercise 16: Merge 2 list into Dictionary
+
+Coding Exercise 17: Merge Multiple Dictionary
+
+Coding Exercise 18: Words Frequency in a Sentence
+
+Coding Exercise 19: Palindromic Tuple
+
+Coding Exercise 20: Merge Dictionaries with Common Keys
+
+#Note: Just search for this problems in internet about this problems and solve it. (This is Practical Learning)
+

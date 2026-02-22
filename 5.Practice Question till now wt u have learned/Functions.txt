@@ -1,0 +1,11 @@
+Coding Exercise 1: Celsius To Fahrenheit
+
+Coding Exercise 2: Area of a Rectangle
+
+Coding Exercise 3: Distance Covered by a Vehicle
+
+Coding Exercise 4: Number of Rounds of Lift
+
+Coding Exercise 5: Line Equation
+
+#Note: Just search for this problems in internet about this problems and solve it. (This is Practical Learning)
