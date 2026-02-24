@@ -5,11 +5,11 @@ The is the topic wise python problem solving repo.
 # ✅ Control flow - conditional statement and Loops
 # ✅ In-built Data Structures - List, Tuple, Sets, and Dictionaries
 # ✅ Fuctions
-- Importing Creating modules and Packages
-- File Handling
-- Exception Handling
-- OOPs Concepts
-- Advanced Python
+# ✅ Importing Creating modules and Packages
+# ✅ File Handling
+# ✅ Exception Handling
+# ✅ OOPs Concepts
+# ✅ Advanced Python
 - Numpy
 - pandas
 - more........
